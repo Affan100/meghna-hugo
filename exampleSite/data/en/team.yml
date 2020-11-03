@@ -5,7 +5,7 @@ team:
   team_member:
   - name: อุสมาน
     image_webp: images/img_0483.JPG
-    image: images/team/team-1.jpg
+    image: images/img_0483.JPG
     designation: CEO/Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
