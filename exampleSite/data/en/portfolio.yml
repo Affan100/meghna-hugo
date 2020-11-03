@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: "/images/1_got578ji8ryxbqymytu6gw.png"
-    image_webp: "/images/1_got578ji8ryxbqymytu6gw.png"
+    image: "/images/nextjs.png"
+    image_webp: "/images/nextjs.png"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
