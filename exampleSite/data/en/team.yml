@@ -48,9 +48,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
+  - name: Madsoffee YK
+    image_webp: "/images/119065848_3310472129041213_2457208499992274448_o.jpg"
+    image: "/images/119065848_3310472129041213_2457208499992274448_o.jpg"
     designation: SEO Specialist
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
