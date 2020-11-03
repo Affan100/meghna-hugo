@@ -63,3 +63,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - image: "/images/12088581_953792564686001_143443818808951799_n.jpg"
+    content: ''
+    social:
+    - icon: ''
+      link: ''
+    name: Aekkarach Kitkanna
+    image_webp: "/images/12088581_953792564686001_143443818808951799_n.jpg"
