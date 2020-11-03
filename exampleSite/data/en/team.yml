@@ -3,9 +3,9 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: อุสมาน
-    image_webp: images/img_0483.JPG
-    image: images/img_0483.JPG
+  - name: Affan Pathan
+    image_webp: https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/54423257_2068383423257996_5550803733211774976_o.jpg?_nc_cat=108&ccb=2&_nc_sid=174925&_nc_ohc=abesN0-BN8YAX83A5nW&_nc_ht=scontent.fbkk10-1.fna&oh=9f542ea99279370f2a5f6dd88a07aa2f&oe=5FC65AC8
+    image: https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/54423257_2068383423257996_5550803733211774976_o.jpg?_nc_cat=108&ccb=2&_nc_sid=174925&_nc_ohc=abesN0-BN8YAX83A5nW&_nc_ht=scontent.fbkk10-1.fna&oh=9f542ea99279370f2a5f6dd88a07aa2f&oe=5FC65AC8
     designation: CEO/Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
