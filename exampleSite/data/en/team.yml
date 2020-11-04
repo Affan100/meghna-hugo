@@ -64,7 +64,7 @@ team:
   - image: "/images/2.jpg"
     content: '"การสร้างเทคโนโลยี คือ อนาคตของความอยู่รอด"'
     social:
-    - icon: ''
+    - icon: ti-facebook
       link: https://www.facebook.com/MonaPKT
     name: Aekkarach Kitkanna
     image_webp: "/images/2.jpg"
