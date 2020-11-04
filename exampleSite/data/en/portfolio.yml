@@ -1,23 +1,17 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Works
   portfolio_item:
-  - name: Tag Design
-    image: "/images/nextjs.png"
-    image_webp: "/images/nextjs.png"
+  - name: web development
+    image: "/images/get-the-most-fancied-web-development-services-min-scaled.jpg"
+    image_webp: "/images/get-the-most-fancied-web-development-services-min-scaled.jpg"
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
-  - name: Sound system
-    image: "/images/toptal-blog-image-1518523133236-d2bc894552c77f954f1e5ce48da6604d.webp"
-    image_webp: "/images/toptal-blog-image-1518523133236-d2bc894552c77f954f1e5ce48da6604d.webp"
-    categories:
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
-  - name: Clock Product
+    content: เว็บเกี่ยวกับการลงทะเบียนคนละครึ่งของรัฐ
+    link: https://www.xn--42caj4e6bk1f5b1j.com/
+  - name: App development
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
@@ -25,7 +19,7 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Bottol Label
+  - name: smart framer
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
@@ -33,40 +27,10 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Shopping Bag
+  - name: logo
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - design
-    - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
