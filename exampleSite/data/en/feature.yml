@@ -9,16 +9,15 @@ feature:
   feature_item:
   - title: SEO Optimized
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ทางการตลาดดิจิทัลที่จะทำให้เว็บไซต์ของคุณขึ้นหน้าแรกของ Google
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: SEO Optimized
+  - title: Startup Technology
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ธุรกิจเพื่อการเติบโตแบบก้าวกระโดด สร้างรายได้จากการขยายธุรกิจอย่างรวดเร็ว
+      (Scalable) และทำซ้ำ (Repeatable) ถ้าทำธุรกิจผ่านเทคโนโลยี
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
