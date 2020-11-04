@@ -10,14 +10,9 @@ service:
     icon: ti-layout
     content: บริการทำเว็บไซค์ที่รองรับอุปกรณ์ได้หลากหลาย เช่น moblie  labtop computer
       tablet
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Graphic Design
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: บริการออกแบบตามที่ลูกค้าต้องการ
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
