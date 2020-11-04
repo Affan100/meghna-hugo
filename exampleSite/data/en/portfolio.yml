@@ -27,9 +27,9 @@ portfolio:
     content: 'ระบบควบคุมการเกษตรผ่านเว็บ '
     link: "#"
   - name: logo
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: "/images/download.png"
+    image_webp: "/images/download.png"
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: logo ของชมรมมุสลิม ม.อ. หาดใหญ่
     link: "#"
