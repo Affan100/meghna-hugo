@@ -17,7 +17,6 @@ service:
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
+  - name: IOT
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'บริการนำระบบเทคโนโลยีมาปรับใช้ในชีวิตประจำวัน เช่น ระบบดูแลสวนผัก '
