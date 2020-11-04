@@ -15,8 +15,7 @@ service:
     content: บริการออกแบบตามที่ลูกค้าต้องการ
   - name: Apps Development
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: บริการสร้าง App เพื่อการใช้งานง่ายยิ่งขึ้น เช่น ระบบสแกน QR Code
   - name: IOT
     icon: ti-pulse
     content: 'บริการนำระบบเทคโนโลยีมาปรับใช้ในชีวิตประจำวัน เช่น ระบบดูแลสวนผัก '
