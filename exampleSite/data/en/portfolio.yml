@@ -4,24 +4,24 @@ portfolio:
   title: Works
   portfolio_item:
   - name: web development
-    image: "/images/get-the-most-fancied-web-development-services-min-scaled.jpg"
-    image_webp: "/images/get-the-most-fancied-web-development-services-min-scaled.jpg"
+    image: "/images/b.jpg"
+    image_webp: "/images/b.jpg"
     categories:
     - design
     - development
     content: เว็บเกี่ยวกับการลงทะเบียนคนละครึ่งของรัฐ
     link: https://www.xn--42caj4e6bk1f5b1j.com/
   - name: App development
-    image: "/images/shutter_86181751-mobile-apps1.jpg"
-    image_webp: "/images/shutter_86181751-mobile-apps1.jpg"
+    image: "/images/d.jpg"
+    image_webp: "/images/d.jpg"
     categories:
     - design
     - development
     content: app ที่ทุกคนเข้าถงได้
     link: "#"
   - name: smart framer
-    image: "/images/kubota-farm.jpg"
-    image_webp: "/images/kubota-farm.jpg"
+    image: "/images/a.jpg"
+    image_webp: "/images/a.jpg"
     categories:
     - development
     content: 'ระบบควบคุมการเกษตรผ่านเว็บ '
