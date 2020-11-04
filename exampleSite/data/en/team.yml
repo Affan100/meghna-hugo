@@ -18,15 +18,15 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Abu Bashar
-    image_webp: "/images/54423257_2068383423257996_5550803733211774976_o.jpg"
-    image: "/images/54423257_2068383423257996_5550803733211774976_o.jpg"
-    designation: Manager
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Usman  Sulong
+    image_webp: "/images/4.jpg"
+    image: "/images/4.jpg"
+    designation: Leadership
+    content: "“ก่อนคุณเป็นผู้นำ ความสำเร็จคือเรื่องของการทำให้ตัวคุณเองเติบโต เมื่อคุณกลายเป็นผู้นำ
+      ความสำเร็จเป็นเรื่องของการทำให้ผู้อื่นเติบโต”"
     social:
     - icon: ti-facebook
-      link: "#"
+      link: https://www.facebook.com/pokmang19/
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
