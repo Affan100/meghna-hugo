@@ -48,11 +48,10 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Pond Teerayut Saetee
-    image_webp: "/images/74999092_1350970601743100_3838317860464099328_o.jpg"
-    image: "/images/74999092_1350970601743100_3838317860464099328_o.jpg"
+    image_webp: "/images/1.jpg"
+    image: "/images/1.jpg"
     designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: '" การเขียนโปรแกรมที่ไม่มี BUG คือการไม่ได้เขียน Code  "'
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/profile.php?id=100004905195568
