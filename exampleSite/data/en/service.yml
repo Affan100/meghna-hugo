@@ -12,7 +12,7 @@ service:
       tablet
   - name: Graphic Design
     icon: ti-palette
-    content: บริการออกแบบตามที่ลูกค้าต้องการ
+    content: 'บริการออกแบบตามที่ลูกค้าต้องการ เช่น logo  poster '
   - name: Apps Development
     icon: ti-package
     content: บริการสร้าง App เพื่อการใช้งานง่ายยิ่งขึ้น เช่น ระบบสแกน QR Code
