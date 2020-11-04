@@ -2,10 +2,9 @@
 skill:
   enable: true
   title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  subtitle: ประสบการณ์ของทีมงาน Muslim Dev และ เครื่องมือการใช้งานต่างๆ
+  content: 'ทางทีมบริษัท Muslim Development มีการประสบการณ์พัฒนาเทคโนโลยีหลากหลายด้านที่คุณต้องการ
+    เช่น ระบบเว็บไซค์  ระบบสมาร์ทฟาร์ม  อื่นๆ '
   image: images/about/company-growth.webp
   skill_item:
   - name: AI Development
