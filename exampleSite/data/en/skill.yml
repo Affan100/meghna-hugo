@@ -8,6 +8,8 @@ skill:
     sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image: images/about/company-growth.webp
   skill_item:
+  - name: AI Development
+    percent: 60%
   - name: Web Development
     percent: 90%
   - name: Business Development
