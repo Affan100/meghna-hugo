@@ -20,11 +20,6 @@ languageCode = ""
 languageName = ""
 weight = ""
 [[menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
-[[menu.main]]
 name = "services"
 pre = "#"
 url = "services"
