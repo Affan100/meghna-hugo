@@ -9,10 +9,8 @@ contact:
     info: กะทู้, กะทู้, ภูเก็ต, ไทย
   - icon: ti-mobile
     info: 'Phone: 087-899-6858'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: usman.s25429@gmail.com'
   contact_form:
     enable: true
     form_action: "#"
