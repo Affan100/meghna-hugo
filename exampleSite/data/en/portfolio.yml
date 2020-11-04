@@ -20,12 +20,11 @@ portfolio:
     content: app ที่ทุกคนเข้าถงได้
     link: "#"
   - name: smart framer
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: "/images/kubota-farm.jpg"
+    image_webp: "/images/kubota-farm.jpg"
     categories:
-    - photography
     - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: 'ระบบควบคุมการเกษตรผ่านเว็บ '
     link: "#"
   - name: logo
     image: images/portfolio/portfolio-5.jpg
