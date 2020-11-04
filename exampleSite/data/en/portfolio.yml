@@ -26,10 +26,3 @@ portfolio:
     - development
     content: 'ระบบควบคุมการเกษตรผ่านเว็บ '
     link: "#"
-  - name: logo
-    image: "/images/download.png"
-    image_webp: "/images/download.png"
-    categories:
-    - design
-    content: logo ของชมรมมุสลิม ม.อ. หาดใหญ่
-    link: "#"
