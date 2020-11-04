@@ -61,11 +61,11 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - image: "/images/12088581_953792564686001_143443818808951799_n.jpg"
-    content: "-"
+  - image: "/images/2.jpg"
+    content: '"การสร้างเทคโนโลยี คือ อนาคตของความอยู่รอด"'
     social:
     - icon: ''
-      link: ''
+      link: https://www.facebook.com/MonaPKT
     name: Aekkarach Kitkanna
-    image_webp: "/images/12088581_953792564686001_143443818808951799_n.jpg"
-    designation: "-"
+    image_webp: "/images/2.jpg"
+    designation: Web Developer
