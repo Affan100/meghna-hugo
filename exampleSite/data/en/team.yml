@@ -71,8 +71,8 @@ team:
     designation: Web Developer
   - image_webp: "/images/5.jpg"
     image: "/images/5.jpg"
-    designation: ๊UX/UI
-    content: '"สิ่งที่อยากที่สุดสำหรับการออกแบบ คือ การออกแบบงานฟรี"'
+    designation: UX/UI
+    content: '"สิ่งที่ยากที่สุดสำหรับการออกแบบ คือ การออกแบบงานฟรี"'
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/DDdropdown
